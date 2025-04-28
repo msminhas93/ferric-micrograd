@@ -1,5 +1,3 @@
-# README.md
-
 ## Micrograd in Rust
 
 This project is a Rust implementation of Andrej Karpathy's *[Micrograd](https://github.com/karpathy/micrograd)*, a tiny autograd engine for scalar-valued automatic differentiation and neural network training. Inspired by Karpathy's educational approach to building neural networks from scratch, this codebase replicates the core functionality of *Micrograd* in Rust, providing a lightweight framework for learning and experimenting with deep learning concepts.
